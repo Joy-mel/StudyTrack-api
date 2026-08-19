@@ -1,6 +1,6 @@
 # StudyTrack
 
-**Live:** https://jm-studytrack.netlify.app/ &nbsp;|&nbsp; **Repo:** https://github.com/Joy-mel/StudyTrack-api
+**Student Form:** https://jm-studytrack.netlify.app/ &nbsp;|&nbsp; **Dashboard:** https://jm-studytrack.netlify.app/dashboard.html &nbsp;|&nbsp; **Repo:** https://github.com/Joy-mel/StudyTrack-api
 
 A student academic performance data collection and analytics system. Students submit study habits via a form; the instructor views aggregated patterns on a private dashboard — both connected through a Google Apps Script API backed by Google Sheets.
 
